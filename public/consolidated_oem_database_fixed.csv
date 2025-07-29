@@ -1,0 +1,294 @@
+Sr. No.,OEM Type,OEM Name,City/District,State,Contact Phone,Contact Email,Uses ABB Motors,Source/Notes
+1,Pumps - Industrial / Agricultural,Kirloskar Brothers Ltd,Pune,Maharashtra,1800-123-4443,N/A,Potential,Manufactures a wide range of industrial and agricultural pumps; as a market leader they would source from top-tier suppliers like ABB
+2,Pumps - Industrial / Water,KSB Pumps Ltd.,Pune,Maharashtra,1800-233-1299,N/A,Confirmed,Third-party supplier lists a KSB pump model explicitly paired with an ABB motor
+3,Pumps - Consumer / Agricultural,Crompton Greaves Consumer Electricals Limited,Mumbai,Maharashtra,9228880505,consumer.support@crompton.co.in,Potential,Major manufacturer of pumps and motors; likely sources from or competes with ABB
+4,Pumps - Industrial / Water,Grundfos Pumps India Pvt. Ltd.,Chennai,Tamil Nadu,+91-44-4596-6800,contact.india@sales.grundfos.com,Potential,Global leader with high-quality standards; ABB is a logical potential supplier for their premium products
+5,Pumps - Solar / Agricultural,Shakti Pumps (India) Ltd,Pithampur,Madhya Pradesh,+91-7292-410500,info@shaktipumps.com,Potential,Leading solar pump manufacturer; would require high-efficiency motors a key ABB offering
+6,Pumps - Agricultural / Domestic Submersible,Falcon Pumps Private Limited,Rajkot,Gujarat,+91-97277-00568,sales@falconpumps.in,Potential,Leading manufacturer in the Rajkot cluster produces standard pumps compatible with ABB motors
+7,Pumps - Agricultural / Domestic,Taro Pumps (Texmo Industries),Coimbatore,Tamil Nadu,1800-102-8888,info@taropumps.com,Potential,Major player in the Coimbatore hub manufactures its own motors but could source for specialized applications
+8,Pumps - Agricultural / Domestic,CRI Pumps Pvt. Ltd.,Coimbatore,Tamil Nadu,1800-121-1243,customercare@crigroups.com,Potential,A dominant market leader in agricultural pumps; while they have extensive in-house motor manufacturing they may source for specific requirements
+9,Pumps - Industrial / Consumer,Havells India Ltd.,Noida,Uttar Pradesh,080-45-77-1313,customercare@havells.com,Potential,Large electricals conglomerate that manufactures pumps; potential for sourcing high-efficiency motors
+10,Pumps - Industrial / Power,CG Power and Industrial Solutions Limited,Mumbai,Maharashtra,+91-22-2423-7700,help@cgglobal.com,Potential,Major competitor to ABB in the motor space but could potentially source for specific integrated solutions
+11,Pumps - Agricultural / Domestic,Oswal Pumps Ltd.,Karnal,Haryana,+91-9896266691,info@oswalpumps.com,Potential,Fast-growing company in solar and agricultural pumps a key target market for ABB's efficient motors
+12,Pumps - Submersible / Domestic,Lubi Submersibles Ltd.,Ahmedabad,Gujarat,+91-79-61700100,service@lubipumps.com,Potential,Large manufacturer of submersible pumps and induction motors; could be a customer or competitor
+13,Pumps - Industrial Process,Flowchem Engineering Pvt. Ltd.,Ahmedabad,Gujarat,N/A,N/A,Potential,Specializes in industrial process pumps requiring reliable motors that meet industry standards making ABB a suitable partner
+14,Pumps - Chemical Process,Chemlin Pumps & Valves Pvt. Ltd.,Kolhapur,Maharashtra,+91-231-2653123,sales@chemlinindia.com,Potential,Focus on corrosion-resistant pumps for chemical industries suggests a need for specialized high-reliability motors like those offered by ABB
+15,Pumps - Industrial / Submersible,Deccan Industries,Coimbatore,Tamil Nadu,+91-422-2531063,deccan@deccanindustries.com,Potential,Specifies NEMA Standard motors which are a core part of ABB's product portfolio
+16,Pumps - Chemical Process,JEE Pumps,Ahmedabad,Gujarat,1800-233-8787,info@jeepumps.com,Potential,Reputed manufacturer of chemical process pumps a key application area for ABB's specialized industrial motors
+17,Pumps - Industrial / Submersible,Darling Pumps,Indore,Madhya Pradesh,+91-9981992838,info@darlingpumps.in,Potential,Offers a wide range of submersible pumps for demanding applications like slurry and hot water requiring robust motors
+18,Pumps - Submersible,Pluga Pumps & Motors Pvt. Ltd.,Vadodara,Gujarat,1800-313-1381,pluga@pluga.com,Inferred,Factory is located near an ABB facility suggesting a strong logistical and potential supply relationship
+19,Pumps - Positive Displacement,Roto Pumps Ltd,Noida,Uttar Pradesh,+91-120-2567902,contact@rotopumps.com,Potential,Global player in positive displacement pumps; their industrial focus makes them a target for ABB's reliable motor solutions
+20,Pumps - Chemical Process,Akay Industries Pvt. Ltd.,Hubli,Karnataka,+91-836-2486001,business@akayind.co.in,Potential,Long-standing manufacturer of high-quality centrifugal pumps for process industries compatible with standard industrial motors
+21,Pumps - Industrial Process,Egger Pumps India P Ltd,Coimbatore,Tamil Nadu,+91-8044464738,N/A,Confirmed,A third-party lists an "Abb Motor With Egger Pump" for sale. Furthermore ABB and Egger have a global partnership for developing smart sensor technology for pumps
+22,Pumps - Submersible / Agri,Angel Pumps (P) Ltd.,Rajkot,Gujarat,+91-2827-287150,info@pumpsangel.com,Potential,Key player in the Rajkot cluster manufacturing a wide range of standard pumps for which ABB motors would be suitable
+23,Pumps - Submersible / Agri,Duke Plasto Technique Pvt. Ltd.,Palanpur,Gujarat,+91-9428505909,info@dukeplasto.com,Potential,Manufactures NEMA standard pumps and motors making them technically compatible with ABB's NEMA motor range
+24,Pumps - Submersible / Agri,MBH Pumps (Guj) P Ltd,Ahmedabad,Gujarat,+91-79-22823066,parth@mbhpumps.com,Inferred,Distributor listings on B2B platforms show MBH pumps alongside offerings for ABB motors suggesting a common pairing
+25,Pumps - Submersible / Agri,Nesa Pumps P Ltd,Ahmedabad,Gujarat,+91-79-22805058,support@nesapumps.com,Potential,Prominent manufacturer of submersible pumps in the Ahmedabad cluster a key target for high-volume motor suppliers
+26,Pumps - Industrial / Agricultural,Usha International Limited,New Delhi,Delhi,1800-1033-111,N/A,Potential,Diversified company with a range of pumps; would source motors from established suppliers for quality and reliability
+27,Pumps - Industrial Process,Sujal Engineering Pvt Ltd,Ahmedabad,Gujarat,+91-7984428720,sujalpumps@gmail.com,Potential,Serves numerous industries including chemical and pharmaceutical requiring high-quality reliable motors
+28,Pumps - Industrial / Water,Flowserve India Controls Private Limited,Coimbatore,Tamil Nadu,+91-8048262280,N/A,Inferred,Distributor in Coimbatore lists "Abb Electric Motor" alongside Flowserve's product categories indicating a likely supplier relationship in the region
+29,Pumps - Agricultural / Domestic,Suguna Pumps,Coimbatore,Tamil Nadu,+91-422-2223512,suguln@gmail.com,Potential,Major player in Coimbatore with a wide range of pumps and motors; a potential high-volume customer
+30,Pumps - Industrial / Domestic,Sarvo Technologies Ltd,Faridabad,Haryana,N/A,info@sarvo.com,Potential,Manufactures monobloc pumps and water treatment solutions; ABB offers servo motors and drives that could be integrated into their systems
+31,Pumps - Industrial / Chemical,Chemtrols Industries Pvt. Ltd.,Mumbai,Maharashtra,N/A,N/A,Inferred,A distributor listing explicitly mentions "Abb Vortex Flow Meter" in the context of Chemtrols products indicating an existing relationship with ABB's automation division
+32,Pumps - Industrial Process,Tapflo Dev Industries,N/A,N/A,+1-949-752-7860,sales@pumportal.com,Potential,Global manufacturer of industrial pumps for chemical and process industries aligning with ABB's target segments
+33,Pumps - Industrial / Water,Waterman Industries P Ltd,N/A,N/A,N/A,N/A,Potential,Focus on water supply and building services aligns with a key application segment for ABB motors and drives
+34,Pumps - Submersible,Arvind Pumps P Ltd,Ahmedabad,Gujarat,+91-79-561015,N/A,Potential,Part of the dense Ahmedabad pump cluster manufacturing standard submersible pumps
+35,Pumps - Industrial,Algo Fluid Systems Pvt. Ltd.,Gandhinagar,Gujarat,N/A,N/A,Potential,Member of the Indian Pump Manufacturers' Association indicating a significant presence in the industrial fluid handling sector
+36,Pumps - Submersible,Aquasub Engineering (Texmo),Coimbatore,Tamil Nadu,+91-422-2642484,aquasub@vsnl.com,Potential,A key entity within the Texmo group a major force in the Coimbatore agricultural pump market
+37,Pumps - Industrial,Chandra Pumps Pvt Ltd,Meerut,Uttar Pradesh,N/A,N/A,Potential,Established manufacturer of industrial pumps serving markets outside the main clusters
+38,Pumps - Industrial / Water,Flowwell Pumps,N/A,Gujarat,+91-9898902456,flowellpump@gmail.com,Potential,Provider of water pumping solutions with over 40 years of experience a target for standard motor sales
+39,Pumps - Industrial / Chemical,Indo Pump,Nashik,Maharashtra,+91-9011066239,sales@indopump.com,Potential,Specializes in centrifugal and process pumps requiring reliable industrial-grade motors
+40,Pumps - Industrial / Chemical,Klaus Union Engg India P Ltd,Pune,Maharashtra,N/A,info@klaus-union.com,Potential,Indian arm of a German specialist in sealless magnetic drive pumps for chemical/petrochemical industries a high-value segment for ABB
+41,Pumps - Chemical Dosing,Matz Pumps P Ltd,N/A,N/A,N/A,N/A,Potential,Leading supplier of chemical dosing pumps since 1967; their precision applications could benefit from ABB's advanced motor controls
+42,Pumps - Progressive Cavity,Panchal Pumps & Systems,Kanpur,Uttar Pradesh,08048966370,N/A,Inferred,A distributor in Kanpur explicitly lists a "PANCHAL Borehole Lineshaft Pump Driven By Electric Motor" alongside "3phase Motor (ABB)"
+43,Pumps - Industrial / Chemical,Super Flow Pumps P Ltd,Navi Mumbai,Maharashtra,+91-22-27782842,N/A,Potential,Manufacturer of chemical process and slurry pumps operating in the industrial hub of Maharashtra
+44,Pumps - Mechanical Seals,Sealmatic India P Ltd,Mumbai,Maharashtra,+91-22-50502700,info@sealmaticindia.com,Potential,Not a pump OEM but a key supplier of mechanical seals to the industry. A partnership could provide indirect access to pump OEMs
+45,Pumps - Mechanical Seals,Hi Fab Engineers p Ltd,Mumbai,Maharashtra,08047636446,N/A,Potential,Leading manufacturer of mechanical seals for pumps and mixers serving the same industrial customers as ABB
+46,Pumps - Engineering Services,Unicorn Engineers,N/A,N/A,+91-9995-525-588,info@unicornpower.com,Inferred,A distributor lists "Vibratory Motor" from Unicorn Engineers alongside various ABB electric motors suggesting a channel partnership
+47,Pumps - Industrial / Chemical,Amin Engineering,Vadodara,Gujarat,+91-9067118700,info@amineng.com,Potential,Specializes in precision machining and components for process industries including pumps a key target for motor integration
+48,Pumps - Industrial / Trading,Melkev Machinery,Mumbai,Maharashtra,08048972138,N/A,Potential,Trader and supplier of various industrial pumps and motors; could be a channel partner for distributing ABB motors with pumps
+49,Pumps - Valve Automation,Auma India Private Limited,Bangalore,Karnataka,+91-80-2839-4365,info@auma.co.in,Potential,Leading manufacturer of electric actuators for valves a related industry. ABB motors could be used in their actuator assemblies
+50,Pumps - Industrial Valves,Advance Valves Private Limited,Noida,Uttar Pradesh,+91-120-479-6900,info@advancevalves.com,Potential,Manufactures motor-operated valves; ABB is a potential supplier for the electric motors used in these automated valve systems
+51,Compressors - Refrigeration/Industrial Air/Process Gas,Kirloskar Pneumatic Company Limited,Pune,Maharashtra,N/A,N/A,Information Unavailable,Leading compressor manufacturer
+52,Compressors - Refrigeration,Emerson Climate Technologies (Copeland Compressors),Gurugram,Haryana,N/A,sanjay.kapoor@emerson.com,Information Unavailable,Global HVAC solutions
+53,Compressors - Industrial Air/Gas Compressors/Process Gas,Atlas Copco (India) Private Ltd.,Pune,Maharashtra,+91 77680 80901,info.compressor@atlascopco.com,Yes,Uses ABB Motors/Components
+54,Compressors - Industrial Air,FS-Curtis India,Pune,Maharashtra,+91 8956964864,abhineet@fselliott.in,Information Unavailable,Air compressor specialist
+55,Compressors - Refrigeration,Freezeking,Delhi (Kirti Nagar),Delhi,+91 9899 7010 28,freezekingindustries@gmail.com,Information Unavailable,Refrigeration compressor manufacturer
+56,Compressors - Refrigeration,Bitzer India Private Limited,Mumbai,Maharashtra,N/A,harvinder.bhatia@bitzer.in,Information Unavailable,German refrigeration compressor manufacturer
+57,Compressors - Refrigeration,Frascold India,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Italian refrigeration compressor manufacturer
+58,Compressors - Refrigeration,Highly Electric Company (India),Ahmedabad (Matoda Sanand),Gujarat,+91-2717-392899,sales@highly.co.in,Information Unavailable,Electrical and refrigeration equipment
+59,Compressors - Gas Compressors,Indian Compressors Ltd.,New Delhi (Okhla Industrial Estate) Greater Noida,Delhi Uttar Pradesh,+91 11 41206000,sales@didwania.com,Information Unavailable,Gas compression solutions
+60,Compressors - Industrial Air/Gas Compressors,Bharat Pumps & Compressors Limited,Naini Allahabad,Uttar Pradesh,0532-2687417,cmd@bharatpumps.co.in,Information Unavailable,Industrial pump and compressor manufacturer
+61,Compressors - Industrial Air/Gas Compressors,Adson Engineering Corporation,Ahmedabad (Amraiwadi),Gujarat,+91 9898588855,info@adsoncompressor.com,Information Unavailable,Industrial compressor manufacturer
+62,Compressors - Process Gas Compressors,Deep Industries Limited,Ahmedabad (Ambli),Gujarat,+91 2717-298520,info@deepindustries.com,Information Unavailable,Process gas compression specialist
+63,Compressors - Industrial Air,Indo-Air Compressors Private Limited,Ahmedabad (Kathwada GIDC Estate),Gujarat,+91 79 2290 1951,info@indoair.com,Information Unavailable,Air compressor manufacturer
+64,Compressors - Industrial Air/Refrigeration,Bhosale Brothers,Pune,Maharashtra,+91 8624068484,bhosalebrothers123@gmail.com,Information Unavailable,Industrial equipment manufacturer
+65,Compressors - Industrial Air/Refrigeration,Colt Equipments Private Limited,Sonepat (Nathupur),Haryana,N/A,N/A,Information Unavailable,Industrial equipment manufacturer
+66,Compressors - Industrial Air,ELGi Equipments Limited,Coimbatore,Tamil Nadu,1800-425-3544,enquiry@elgi.com,Information Unavailable,Leading air compressor manufacturer
+67,Compressors - Industrial Air,BAC Compressors,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+68,Compressors - Industrial Air/Refrigeration,Tecumseh Products India Private Limited,Hyderabad,Telangana,+91 9810409860,sudeep.katiyar@tecumseh.com,Information Unavailable,Global compressor manufacturer
+69,Compressors - Industrial Air/Gas Compressors,Jyotech Engineering & Marketing Consultants,Noida,Uttar Pradesh,N/A,N/A,Information Unavailable,Engineering consultancy and equipment
+70,Compressors - Industrial Air/Gas Compressors,Comptech Equipments Limited (CEL),Gandhinagar,Gujarat,N/A,N/A,Information Unavailable,Industrial equipment manufacturer
+71,Compressors - Industrial Air/Gas Compressors,Burckhardt Compression India Private Limited,Vadodara,Gujarat,N/A,N/A,Information Unavailable,Swiss compression technology
+72,Compressors - Refrigeration,Sea Bird Refrigeration Private Limited,Delhi,Delhi,N/A,N/A,Information Unavailable,Refrigeration equipment manufacturer
+73,Compressors - Industrial Air,Anest Iwata Motherson Private Limited,Noida,Uttar Pradesh,N/A,N/A,Information Unavailable,Japanese air compressor technology
+74,Compressors - Industrial Air,Sriram Air Compressors (Coimbatore) Private Limited,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Regional air compressor manufacturer
+75,Compressors - Industrial Air,Eskay Engineering Systems,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Engineering and air compressor systems
+76,Compressors - Industrial Air,Balaji Compressors,Tirupur,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+77,Compressors - Industrial Air/Refrigeration,Premier Industries,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Industrial equipment manufacturer
+78,Compressors - Industrial Air/Refrigeration,Mayekawa India Private Limited,Gurgaon,Haryana,N/A,N/A,Information Unavailable,Japanese industrial refrigeration
+79,Compressors - Industrial Air,Pryes compressors Private Limited,Tiruppur,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+80,Compressors - Industrial Air,Premier Compressor,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+81,Compressors - Refrigeration,Mittal Refrigerations,New Delhi,Delhi,N/A,N/A,Information Unavailable,Refrigeration equipment manufacturer
+82,Compressors - Industrial Air,Boss Air Compressor,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Air compressor manufacturer
+83,Compressors - Industrial Air,Aakash Engineering Works,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Engineering and air compressor systems
+84,Compressors - Industrial Air,RMP Compressor,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+85,Compressors - Industrial Air,Manifold Engineers,Rajkot,Gujarat,N/A,N/A,Information Unavailable,Engineering and compressor systems
+86,Compressors - Industrial Air/Gas Compressors,GHH Borsig India Private Limited,Vadodara,Gujarat,N/A,N/A,Information Unavailable,German engineering and compression technology
+87,Compressors - Industrial Air,Neelgiri's Compressors Company,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor manufacturer
+88,Compressors - Industrial Air,National Equipment Company,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Industrial equipment manufacturer
+89,Compressors - Industrial Air,Airmax Equipments,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Air compressor and equipment manufacturer
+90,Compressors - Industrial Air,J.K.Enterprises,Pune,Maharashtra,N/A,N/A,Information Unavailable,Industrial equipment supplier
+91,Compressors - Industrial Air/Refrigeration,Cooling Systems Inc.,Faridabad,Haryana,N/A,N/A,Information Unavailable,Cooling and refrigeration systems
+92,Compressors - Distributor/Supplier,North India Compressors,Delhi,Delhi,N/A,N/A,Information Unavailable,Compressor distributor and supplier
+93,Compressors - Industrial Air,Mark Compressors India,Pune,Maharashtra,N/A,jayesh.kashyap@mark-compressors.com,Information Unavailable,Air compressor manufacturer
+94,Compressors - Refrigeration,Embraco,Navi Mumbai,Maharashtra,+91 9998124624,vinod.maloo.synergy@nidec-ga.com,Information Unavailable,Global refrigeration compressor manufacturer
+95,Compressors - Refrigeration,Frick India Ltd.,New Delhi,Delhi,+91 9810126276,anupam@frickmail.com,Information Unavailable,Industrial refrigeration systems
+96,Compressors - Refrigeration,Rockwell Industries Ltd.,Hyderabad,Telangana,N/A,ashokg@rockwell.co.in,Information Unavailable,Refrigeration equipment manufacturer
+97,Compressors - Refrigeration,Sidwal Refrigeration Industries Ltd.,Faridabad,Haryana,+91 9818180000,ranbir@sidwal.com,Information Unavailable,Refrigeration systems manufacturer
+98,Compressors - Automotive AC,Subros Ltd,Noida,Uttar Pradesh,N/A,msethi@subros.com,Information Unavailable,Automotive air conditioning systems
+99,Compressors - Refrigeration,Super Refrigeration (India) Pvt. Ltd.,New Delhi,Delhi,+91 9891182940,info@superefrigeration.com,Information Unavailable,Refrigeration equipment manufacturer
+100,Compressors - Refrigeration,Superfreeze India Ltd.,Gurgaon,Haryana,+91 9810048749,mainisk@superfreeze.com,Information Unavailable,Industrial refrigeration systems
+101,Compressors - Refrigeration,Tropikal Comfort Pvt. Ltd.,Jalna,Maharashtra,+91 9422927364,tropikalcomfort@gmail.com,Information Unavailable,Refrigeration and comfort systems
+102,Compressors - Refrigeration,Aircon Refrigeration Co. Delhi,New Delhi,Delhi,+91 9811253434,tpsmehar@hotmail.com,Information Unavailable,Refrigeration equipment and services
+103,Compressors - Refrigeration,Airfreeze Enterprises,Bengaluru,Karnataka,N/A,airfreezeenterprise@gmail.com,Information Unavailable,Refrigeration equipment manufacturer
+104,Compressors - Refrigeration,Bothra Electric & Refrigeration Co.,Ahmedabad,Gujarat,+91 9327482763,bothraref@yahoo.com,Information Unavailable,Electrical and refrigeration equipment
+105,Compressors - Refrigeration,Delhi Refrigeration Corporation,New Delhi,Delhi,+91 9312274285,delrefco@hotmail.com,Information Unavailable,Refrigeration equipment manufacturer
+106,Compressors - Refrigeration,Ever Cool Refregeration,Kochi,Kerala,+91 9388619953,ever.coooll@gmail.com,Information Unavailable,Refrigeration systems
+107,Compressors - Refrigeration,Royal Electronics,Roorkee,Uttarakhand,+91 9917266861,royalrefrigerationworks80@gmail.com,Information Unavailable,Electronics and refrigeration equipment
+108,Compressors - Aircon,Sai Aircon,Aurangabad,Maharashtra,+91 9850023777,saiaircon@gmail.com,Information Unavailable,Air conditioning systems
+109,Compressors - Refrigeration,Tempcon,Kolkata,West Bengal,+91 9830040717,info@tempcon.co.in,Information Unavailable,Temperature control and refrigeration
+110,Compressors - Gas Compressors,Sukan Engineering Pvt Ltd,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Gas compression engineering
+111,Compressors - Compressors (Various),Indmark,N/A,Maharashtra,N/A,N/A,Information Unavailable,Industrial compressor manufacturer
+112,Compressors - Gas Compressors,KAL ENERGY INDIA PVT. LTD.,N/A,N/A,N/A,N/A,Information Unavailable,Energy and gas compression solutions
+113,Compressors - Industrial Compressors,GASAIR MULTITECH LLP,N/A,N/A,N/A,N/A,Information Unavailable,Gas and air compression technology
+114,Compressors - Compressors (Various),Toshniwal Brothers SR Private Limited,N/A,Karnataka,N/A,N/A,Information Unavailable,Industrial equipment manufacturer
+115,Compressors - Air Compressors,Reliable Pneumatic,Secunderabad,Telangana,N/A,N/A,Information Unavailable,Pneumatic and air compression systems
+116,Compressors - Compressors (Various),Powertherm Engg. Private Limited,Hyderabad,Telangana,N/A,N/A,Information Unavailable,Power and thermal engineering
+117,Compressors - Reciprocating Compressors,Metro International,Kolkata,West Bengal,N/A,N/A,Information Unavailable,Reciprocating compressor specialist
+118,Compressors - Air Compressors,Standard Engineering Company,Ahmedabad,Gujarat,N/A,N/A,Information Unavailable,Standard engineering and air compressors
+119,Compressors - High Pressure Gas Compressors,Sulzer India Limited,Pune,Maharashtra,N/A,N/A,Information Unavailable,Swiss high pressure compression technology
+120,Compressors - Reciprocating Compressors,IDEX India Private Limited,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Reciprocating compressor systems
+121,Compressors - Reciprocating Compressors,Gayatri Engineering Company Private Limited,Ahmedabad,Gujarat,N/A,N/A,Information Unavailable,Engineering and compressor manufacturing
+122,Compressors - Air Compressors,Selwel Enterprises Private Limited,Aurangabad,Maharashtra,N/A,N/A,Information Unavailable,Air compressor manufacturing and services
+123,Compressors - Air Compressors,The KND Tools & Equipments,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Tools and air compressor equipment
+124,Compressors - Air Compressors,Bimpex Machines Private Limited,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Machine and air compressor manufacturing
+125,Compressors - Compressors,Integrated Engineers & Contractors,Delhi,Delhi,N/A,N/A,Information Unavailable,Engineering and contracting services
+126,Compressors - Air Compressors,Aar Vee Pneumatic Services,Hyderabad,Telangana,N/A,N/A,Information Unavailable,Pneumatic services and air compressors
+127,Compressors - Air Compressors,Unik Pneumatic Engineering Company Private Limited,Hyderabad,Telangana,N/A,N/A,Information Unavailable,Pneumatic engineering and air compressors
+128,Compressors - Air Compressors,Metro Engineering Equipments,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Engineering equipment and air compressors
+129,Compressors - Air Compressors,R.D. Dutta & Company Private Limited,New Delhi,Delhi,N/A,N/A,Information Unavailable,Industrial equipment and air compressors
+130,Compressors - Compressed Air Systems,A-1 Air & Gas Company,Mumbai,Maharashtra,N/A,N/A,Information Unavailable,Air and gas compression systems
+131,Compressors - Compressors,Maxbee Industries,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Industrial compressor manufacturing
+132,Compressors - Air Compressors,Esar Equipments,Coimbatore,Tamil Nadu,N/A,N/A,Information Unavailable,Equipment and air compressor manufacturing
+133,Compressors - Air Compressors,Precimax CNC Engineers,Trichy,Tamil Nadu,N/A,N/A,Information Unavailable,CNC engineering and air compressors
+134,Compressors - Air Compressors,Kool Tech Engineers,New Delhi,Delhi,N/A,N/A,Information Unavailable,Technical engineering and air compressors
+135,Compressors - Compressors,Arun Engineering Works,Namakkal,Tamil Nadu,N/A,N/A,Information Unavailable,Engineering works and compressor manufacturing
+136,Compressors - Air Compressor,Karan Associates Company,New Delhi,Delhi,N/A,N/A,Information Unavailable,Air compressor associates and services
+137,Compressors - Distributor/Supplier,Multivista Global Private Limited,Chennai,Tamil Nadu,+91 44-42030400,N/A,N/A,Global distribution and supply services
+138,Compressors - Related Industry/Component Supplier,AL-CAN EXPORTS PVT. LTD.,Thane,Maharashtra,N/A,vijay@alcanexports.com,N/A,Export and component supply services
+139,Compressors - Related Industry/Component Supplier,ALFA PEB LTD.,Bangalore,Karnataka,N/A,enquiry@asbs.in,N/A,Pre-engineered building and components
+140,Compressors - Related Industry/Component Supplier,ALP OVERSEAS PVT. LTD.,Gurgaon,Haryana,N/A,madhushri@alpaeroflex.com,N/A,Overseas component supply services
+141,Compressors - Related Industry/Component Supplier,AMBER ENTERPRISES INDIA LTD,Gurgaon,Haryana,N/A,ankit@ambergroupindia.com,Information Unavailable,Enterprise solutions and components
+142,Compressors - Related Industry/Component Supplier,AVI-OIL INDIA PVT. LTD.,Noida,Uttar Pradesh,+91 120 4891700,chandra@avi-oil.com,N/A,Oil and lubrication services
+143,Compressors - Industrial Compressors,Ingersoll Rand,N/A,N/A,N/A,N/A,Yes,Uses ABB Components for Motor Control
+144,Conveyors - Conveyor Belts/Systems,Oriental Rubber Industries Pvt. Ltd.,Pune,Maharashtra,N/A,N/A,Unknown,Conveyor belt manufacturer
+145,Conveyors - Conveyor Belts,Somi Conveyor Beltings Ltd.,Jodhpur,Rajasthan,+91-9549658388,sales@somiconveyor.com,Unknown,Conveyor belt manufacturer
+146,Conveyors - Conveyor Belting,Fenner Conveyor Belting Pvt Ltd,Madurai,Tamil Nadu,N/A,N/A,Unknown,Conveyor belt manufacturer
+147,Conveyors - Rubber Conveyor Belts,Continental Belting Pvt. Ltd.,Goregaon Mumbai,Maharashtra,+91-7738455669,sales@continentalbelting.com,Unknown,Conveyor belt manufacturer
+148,Conveyors - Rubber Conveyor/Transmission Belts,Pentagon Rubber Private Limited,New Delhi/Dera Bassi,Delhi/Punjab,+91 11 43504299,sales@pentagonrubber.com,Unknown,Belt manufacturer
+149,Conveyors - Conveyor Systems,Fabmax Enterprises,Pune,Maharashtra,+91 9881640597,info@fabmaxindia.com,Unknown,Material handling systems
+150,Conveyors - Material Handling Conveyor Systems,Maschinen Fabrik India (MF India),Kolkata,West Bengal,N/A,de@mfipl.com,Unknown,Material handling systems
+151,Conveyors - Industrial Conveyor Systems,Bastian Solutions,Bangalore,Karnataka,+91 89 5139 5602,N/A,Unknown,Industrial automation
+152,Conveyors - Conveyor Systems/Automation,Beacon Engineers,Nagpur,Maharashtra,+91-07104-295510,beaconeng@rediffmail.com,Unknown,Conveyor and automation systems
+153,Conveyors - Conveyor Systems,NKC CONVEYOR INDIA PVT LTD,Gurugram,Haryana,91-0124-4084426,contact@nkc-india.com,Unknown,Conveyor systems
+154,Conveyors - Conveyor Systems,ArSai Conve Systems,Ghaziabad,Uttar Pradesh,+91-9811772712,arsaiconveyor@gmail.com,Unknown,Conveyor systems manufacturer
+155,Conveyors - Industrial Conveyor Solutions,Excel Conveyors,Pune,Maharashtra,+91 9822957645,sales@Econveyors.in,Unknown,Industrial conveyor solutions
+156,Conveyors - Bulk Material Handling Equipments,ROLLWELL Conveyor Pvt. Ltd.,Bengaluru/Hindupur,Karnataka/Andhra Pradesh,+91-9379372704,mktg@rollwell.net,Unknown,Bulk material handling
+157,Conveyors - Conveyor Systems,Tsubaki Conveyor Systems India (TCSI),Pune,Maharashtra,+91 20 67928400,TCSI@tsubaki-conveyor.in,Unknown,Japanese conveyor technology
+158,Conveyors - Material Handling Systems,Deccan Mechanical and Chemical Industries (DEMECH),Pune,Maharashtra,+91 20 27120994,dmciho@demechindia.com,Unknown,Material handling systems
+159,Conveyors - Material Handling Systems,Screwtech Engineering Pvt. Ltd.,Pune,Maharashtra,+91 9423004294,info@screwtechconveyors.com,Unknown,Screw conveyor systems
+160,Conveyors - Material Handling Conveyors,Tamilnadu Industrial Conveyor,Chennai,Tamil Nadu,N/A,N/A,Unknown,Industrial conveyor manufacturer
+161,Conveyors - Conveyor Systems,Orange Conveyor Systems,Chennai,Tamil Nadu,+918048204402,N/A,Unknown,Conveyor systems manufacturer
+162,Conveyors - Belt Conveyors System,Shiv Dhara Fabricators And Engineering,Ahmedabad,Gujarat,+91-8048951818,N/A,Unknown,Belt conveyor fabrication
+163,Conveyors - Conveyor Belt Components,Jay Chamunda Industries,Ahmedabad,Gujarat,+91-7943437768,N/A,Unknown,Conveyor belt components
+164,Conveyors - Roller Belt Conveyer,Gururaj Rubber Enterprise,Ahmedabad,Gujarat,+91-8044919377,N/A,Unknown,Roller belt conveyor manufacturer
+165,Conveyors - Belt Conveyor System,Techno Power Engimech Private Limited,Ahmedabad,Gujarat,+91-8046035294,N/A,Unknown,Belt conveyor systems
+166,Conveyors - Belt Conveyors,Akshay Engineering,Ahmedabad,Gujarat,+91-8046032953,N/A,Unknown,Belt conveyor manufacturing
+167,Conveyors - Belt Conveyors,Amar Fabricators & Engineers,Ahmedabad,Gujarat,+91-8044566903,N/A,Unknown,Belt conveyor fabrication
+168,Conveyors - Flat Belt Conveyor,Kiran Rubber,Surat,Gujarat,+91-7942539203,N/A,Unknown,Flat belt conveyor manufacturer
+169,Conveyors - Belt Conveyors,Rank One Industries,Rajkot,Gujarat,+91-8048263915,N/A,Unknown,Belt conveyor manufacturing
+170,Conveyors - Belt Conveyor Components,Hightech Automation And Software Technology,Ahmedabad,Gujarat,+91-8048977382,N/A,Unknown,Automation and conveyor components
+171,Conveyors - Conveyor Systems,Radheiot Techno Private Limited,Vadodara,Gujarat,+918046037360,N/A,Unknown,Conveyor technology systems
+172,Conveyors - Conveyor Systems/Material Handling,RP Automation,Vadodara,Gujarat,+917949373375,N/A,Unknown,Automation and material handling
+173,Conveyors - Belt Conveyor System,Mahi Systems Private Limited,Vadodara,Gujarat,+918048967050,N/A,Unknown,Belt conveyor systems
+174,Conveyors - Vertical Stacker/Mobile Conveyor,Panchal Production,Vadodara,Gujarat,+918048963347,N/A,Unknown,Vertical and mobile conveyor systems
+175,Conveyors - Belt Conveyors,Kokund Engineers Private Limited,Vadodara,Gujarat,+917949322652,N/A,Unknown,Belt conveyor engineering
+176,Conveyors - Conveyor Systems,SMT Conveyors And Automations,Bengaluru,Karnataka,+917942836598,N/A,Unknown,Conveyor automation systems
+177,Conveyors - Conveyor Systems,Loknath Engineering,Kolkata,West Bengal,+918046045188,N/A,Unknown,Conveyor engineering systems
+178,Conveyors - Conveyor Systems,S.G. Packaging And Coding Co.,Kolkata,West Bengal,+918048603440,N/A,Unknown,Packaging and conveyor systems
+179,Conveyors - Conveyor Systems,Flexitech Engineering,Kolkata,West Bengal,+918048263934,N/A,Unknown,Flexible conveyor engineering
+180,Conveyors - Modular Belt Conveyor,Prime Equipment And Plant Automation,Kolkata,West Bengal,+918047630995,N/A,Unknown,Modular conveyor systems
+181,Conveyors - Conveyor Systems,Alpha Beltech & Systems,Kolkata,West Bengal,+918046043280,N/A,Unknown,Belt technology and conveyor systems
+182,Conveyors - Screw Conveyor,JD Roto Engineering,Kolkata,West Bengal,+918047623589,N/A,Unknown,Screw conveyor specialist
+183,Conveyors - UV Sanitization Conveyor,H. S. Engineers,Kolkata,West Bengal,+918048950903,N/A,Unknown,Specialized sanitization conveyors
+184,Conveyors - Conveyor Systems,Psquare Technologies,Kolkata,West Bengal,+918046077012,N/A,Unknown,Technology-driven conveyor systems
+185,Conveyors - Belt Process Line Conveyors,Pragati Industries,East Kolkata Township,West Bengal,+918048956436,N/A,Unknown,Process line conveyor systems
+186,Conveyors - Conveyor Systems,M D Conveyor Systems,Pune,Maharashtra,+917942554613,N/A,Unknown,Conveyor systems manufacturer
+187,Conveyors - Material Handling System,Samarth Conveyors,Mumbai,Maharashtra,+918047691014,N/A,Unknown,Material handling and conveyor systems
+188,Conveyors - Belt Conveyors,RS Industrial Solutions,New Delhi,Delhi,+918048956022,N/A,Unknown,Industrial belt conveyor solutions
+189,Conveyors - Conveyor Systems,Anton Automation Private Limited,Delhi,Delhi,+918048977003,N/A,Unknown,Automation and conveyor systems
+190,Conveyors - Bottling Plants Conveyor,Radix Industries,Kanpur,Uttar Pradesh,+918046063384,N/A,Unknown,Bottling plant conveyor specialist
+191,Conveyors - Vertical Conveyors,M/S Vishnu Engineering,Kanpur,Uttar Pradesh,+918047638476,N/A,Unknown,Vertical conveyor systems
+192,Conveyors - Vertical Conveyors,Daifuku Intralogistics India Private Limited,Hyderabad,Telangana,+91-8044566431,N/A,Unknown,Japanese vertical conveyor technology
+193,Conveyors - Vertical Reciprocating Conveyors,Introcon Conveyor Systems,Hyderabad,Telangana,+91-8047673339,N/A,Unknown,Vertical reciprocating conveyor systems
+194,Fans/Blowers - Industrial/Commercial Fans,Havells India Ltd.,Noida,Uttar Pradesh,0120-3331000,N/A,Potential,Major electricals company offering a wide range of fans; ABB is a logical high-quality motor supplier
+195,Fans/Blowers - Industrial/Commercial Fans,Crompton Greaves Consumer Electricals Ltd.,Mumbai,Maharashtra,+91 22 61678499,N/A,Potential,Leading fan manufacturer and a major player in the electric motor market
+196,Fans/Blowers - Industrial/Commercial Fans,Usha International Ltd.,Gurgaon,Haryana,0124-4583100,N/A,Potential,Major brand in home and industrial appliances including fans; likely to source from established motor suppliers
+197,Fans/Blowers - Centrifugal/Axial Fans,Usha Die Casting Industries (Blowerfab),Surat,Gujarat,N/A,N/A,Potential,Top-notch manufacturer of a wide range of industrial fans and blowers under the SYMBIOSIS brand
+198,Fans/Blowers - Industrial Blowers/Fans,Mittal Blowers India,Ahmedabad,Gujarat,N/A,N/A,Potential,Leading manufacturer of industrial air blower machines and fans in a key industrial hub
+199,Fans/Blowers - Centrifugal/Axial Fans,Eminent Blowers,Pune,Maharashtra,N/A,N/A,Potential,Highly acclaimed manufacturer of industrial centrifugal blowers and axial fans
+200,Fans/Blowers - Centrifugal Fans/Blowers,Techflow Enterprises,N/A,N/A,N/A,N/A,Potential,Manufacturer of dust collection systems and centrifugal fans/blowers
+201,Fans/Blowers - Industrial Fans/Blowers,Reitz India,N/A,N/A,N/A,N/A,Potential,Renowned for manufacturing centrifugal and axial flow fans
+202,Fans/Blowers - Industrial Fans,NADI Airtechnics,N/A,N/A,N/A,N/A,Potential,Manufactures light and medium duty industrial fans
+203,Fans/Blowers - Industrial Blowers,Dynavac,N/A,N/A,N/A,N/A,Potential,Provider of ring blowers and centrifugal blowers
+204,Fans/Blowers - Industrial Blowers,Kay International Pvt Ltd,Gurugram/Sonipat,Haryana,N/A,N/A,Potential,Leading manufacturer of industrial blowers including centrifugal and roots blowers
+205,Fans/Blowers - Centrifugal/Axial Fans,R. K. Engineering Works,Mumbai,Maharashtra,+91 9870 065 912,rkengworks.in@gmail.com,Potential,Manufacturer of centrifugal fans tube axial fans and fume/dust extraction systems
+206,Fans/Blowers - Axial Fans/Centrifugal Blowers,V B M Enterprises,Mumbai,Maharashtra,N/A,N/A,Potential,Manufacturer of external rotor motors axial flow fans and centrifugal blowers
+207,Fans/Blowers - Ring Blowers,Raico Engineers,Mumbai,Maharashtra,N/A,N/A,Potential,Manufacturer of ring blowers and industrial filters
+208,Fans/Blowers - Centrifugal/Axial Fans,Shree Udyog,Mumbai,Maharashtra,N/A,N/A,Potential,Manufacturer of turbine blowers exhausters centrifugal blowers and axial flow fans
+209,Fans/Blowers - Centrifugal Blowers/Axial Fans,Shivastar Systems,Mumbai,Maharashtra,N/A,N/A,Potential,Manufacturer of inlet blowers backward curve blowers and axial fans
+210,Fans/Blowers - Centrifugal/Axial Fans,Humi Air Systems Pvt. Ltd.,New Delhi,Delhi,N/A,N/A,Potential,Manufacturer of centrifugal fans and axial flow fans
+211,Fans/Blowers - Fans & Blowers,Aero Therm Systems Pvt. Ltd.,Ahmedabad,Gujarat,N/A,N/A,Potential,Manufacturer of a variety of industrial heating systems fans and blowers
+212,Fans/Blowers - Axial Flow Fans,Axialo Industries,Bengaluru,Karnataka,N/A,N/A,Potential,Manufacturer of axial flow fans tube axial type and roof exhausters
+213,Fans/Blowers - Industrial Blowers,Chakshu Engineering,Ahmedabad,Gujarat,N/A,N/A,Potential,Manufacturer of exhaust ventilators and motor cooling blowers
+214,Fans/Blowers - Air Blowers,Yash Blowers Private Limited,Faridabad,Haryana,N/A,N/A,Potential,Manufacturer of a wide range of industrial air blowers
+215,Fans/Blowers - FRP Centrifugal Blowers,D.M. Engineering Co.,N/A,N/A,N/A,N/A,Potential,ISO certified manufacturer of FRP centrifugal blowers and suction blowers
+216,Fans/Blowers - Industrial Axial Fan,RE Blowers India Private Limited,Mumbai,Maharashtra,9821855724,sales@reblowers.com,Potential,ISO certified manufacturer of air blowers and vacuum blowers
+217,Fans/Blowers - Industrial Air Blower,Shalin Composites (India) Private Limited,Palghar,Maharashtra,N/A,N/A,Potential,ISO certified manufacturer of industrial air blowers with a global export network
+218,Fans/Blowers - Twin Lobe Air Blower,Rootech Services,Greater Noida,Uttar Pradesh,N/A,N/A,Potential,Manufacturer of industrial air blowers and twin lobe root blowers
+219,Fans/Blowers - Industrial Man Cooler Fans,United Air Tech Industries,Mumbai,Maharashtra,+91-22-28571126,info@unitedairtechinds.in,Potential,Manufacturer of centrifugal fans PP/FRP blowers and tube axial fans
+220,Fans/Blowers - High-Pressure Blowers,Mechno Tech,Dewas,Madhya Pradesh,N/A,N/A,Potential,Manufacturer of high-pressure blowers and SS mirror-finished blowers
+221,Fans/Blowers - Centrifugal Blower,Deepti Air Systems,Mumbai,Maharashtra,N/A,N/A,Potential,Manufacturer of centrifugal blowers for exhaust gases and pneumatic conveying
+222,Fans/Blowers - Centrifugal Blower,AS Engineers,N/A,N/A,N/A,N/A,Potential,Manufacturer of high-pressure low-pressure and custom-designed centrifugal blowers
+223,Fans/Blowers - Industrial Blowers,Blowtech Engineers Private Limited,Vasai,Maharashtra,N/A,N/A,Potential,Manufacturer of hot air blowers and industrial portable blowers
+224,Fans/Blowers - Cooling Tower Fan,Manvi Textiles Air Engineers Pvt Ltd,Mumbai,Maharashtra,N/A,textair@hotmail.com,Potential,Manufacturer of FRP cooling tower fans for industrial use
+225,Fans/Blowers - Force Draft Fan,Laxmi Udyog,Mumbai,Maharashtra,+(91)-(22)-29271110,laxmiudyog12@gmail.com,Potential,Manufacturer of V-Belt driven force draft fans for industrial applications
+226,Fans/Blowers - Hot Air Fan,B. D. Fans And Enviro Engineering,Kolkata,West Bengal,+91 9830325077,das.bdair@gmail.com,Potential,Manufacturer of hot air fans for industrial use
+227,Fans/Blowers - HVLS Fan,Ecoair Cooling Systems Private Limited,Pune,Maharashtra,+91 99229 39101,sales@ecoair.co.in,Potential,Manufacturer of PMSM 24 ft HVLS fans
+228,Fans/Blowers - Boiler Centrifugal Fans,Aerotech Equipments And Projects Private Limited,Greater Noida,Uttar Pradesh,+91-9810162210,sales@aerotechfans.in,Potential,Manufacturer of duct and wall mounted boiler centrifugal fans
+229,Fans/Blowers - Industrial Fan,Bharat Ventilation Systems,Gautam Buddha Nagar,Uttar Pradesh,+91 7386 535353,contact@bharatgroup.com,Potential,Manufacturer of wall mount industrial fans for ventilation
+230,Fans/Blowers - Commercial Fans,Atomberg Technologies Pvt Ltd,Navi Mumbai,Maharashtra,844 844 9442,support@atomberg.com,Potential,Primary member of IFMA manufactures a range of fans
+231,Fans/Blowers - Commercial Fans,Bajaj Electricals Ltd.,Mumbai,Maharashtra,022-4128 0000,consumercare@bajajelectricals.com,Potential,Primary member of IFMA manufactures a wide range of fans
+232,Fans/Blowers - Commercial Fans,Orient Electric Ltd.,New Delhi,Delhi,0120-4147414,N/A,Potential,Primary member of IFMA manufactures a wide range of fans
+233,Fans/Blowers - Commercial Fans,Polar Elektric Ltd.,Kolkata,West Bengal,033-66291892,N/A,Potential,Primary member of IFMA manufactures a range of fans
+234,Fans/Blowers - Commercial Fans,Polycab India Ltd.,Mumbai,Maharashtra,022-67351400,N/A,Potential,Primary member of IFMA manufactures a range of fans
+235,Fans/Blowers - Commercial Fans,Surya Roshni Limited,New Delhi,Delhi,011-25810093-96,N/A,Potential,Primary member of IFMA manufactures a range of fans
+236,Fans/Blowers - Commercial Fans,V-Guard Industries Ltd.,Kochi,Kerala,1800-103-1300,customercare@vguard.in,Potential,Primary member of IFMA manufactures a range of fans
+237,Fans/Blowers - Roots Blower,Jyoti Airtech Engineers,Ahmedabad,Gujarat,N/A,N/A,Potential,Manufacturer of roots blowers for ETP/STP plant aeration
+238,Fans/Blowers - Industrial Roots Blowers,Leelam Industries,Ahmedabad,Gujarat,N/A,N/A,Potential,Manufacturer of industrial roots blowers
+239,Fans/Blowers - Industrial Centrifugal Fans,EVG ENGICON AIRTECH PVT. LTD.,Pune,Maharashtra,20-27690606,N/A,Potential,Manufacturer of low medium and high-pressure centrifugal fans/blowers
+240,Fans/Blowers - Axial Flow Fan/Industrial Blowers,RAJ ENTERPRISE,Palghar,Maharashtra,0-9769759167,N/A,Potential,Manufacturer of axial flow fans and industrial blowers
+241,Fans/Blowers - OEM Fans,SYS Electromac,Hyderabad,Telangana,N/A,N/A,Potential,OEM partner for leading fan brands like V-Guard and Usha
+242,Fans/Blowers - Industrial/Centrifugal Fans,Alfa Fans,Mumbai,Maharashtra,+91 9967628344,N/A,Potential,Manufacturer of industrial pedestal fans exhaust fans and centrifugal blowers
+243,Fans/Blowers - HVLS/Exhaust Fans,Marut Air,Ahmedabad,Gujarat,+91 63582 54966,ops9@marutair.com,Potential,Manufacturer of big industrial fans gearless HVLS fans and exhaust fans
+244,Gearboxes - Industrial Gearbox Manufacturer,Shanthi Gears Limited,Coimbatore,Tamil Nadu,N/A,N/A,Potential,Leading industrial gearbox manufacturer
+245,Gearboxes - Industrial Gearbox Manufacturer,Teksmithe,Ghaziabad,Uttar Pradesh,N/A,N/A,Potential,Industrial gearbox and transmission systems
+246,Gearboxes - Helical Gearbox Manufacturer,Kavitsu Gear Industry,Satara,Maharashtra,+91-2162-240824,N/A,Potential,Helical gearbox specialist
+247,Gearboxes - Worm Gearbox Manufacturer,JS Gears,Ahmedabad,Gujarat,N/A,N/A,Potential,Worm gearbox manufacturer
+248,Gearboxes - Industrial Gearbox Manufacturer,Elecon Engineering Company Ltd,Anand,Gujarat,9909917113,infoepc@elecon.com,Yes,Confirmed ABB motor usage
+249,Gearboxes - Planetary Gearbox Manufacturer,Top Gear Transmissions,Satara,Maharashtra,+91-2162-240642,sales@topgeartransmission.com,Potential,Planetary gearbox specialist
+250,Gearboxes - Industrial Gearbox Manufacturer,Rossi Gearmotors (India) Pvt Ltd,Coimbatore,Tamil Nadu,N/A,N/A,Potential,Italian gearmotor technology
+251,Gearboxes - Industrial Gearbox Manufacturer,Ronak Engineers,Vasai East/Thane,Maharashtra,N/A,N/A,Potential,Industrial gearbox engineering
+252,Gearboxes - Industrial Gearbox Manufacturer,Paarc Industries,Belgaum,Karnataka,N/A,N/A,Potential,Industrial gearbox manufacturer
+253,Gearboxes - Industrial Gearbox Manufacturer,Transtech Gears Private Limited,Bengaluru Rural,Karnataka,+91-8867080712,mkt@transtechgears.com,Potential,Gear transmission technology
+254,Gearboxes - Industrial Gearbox Manufacturer,MGM-Varvel Power Transmission Private Limited,Chennai,Tamil Nadu,N/A,N/A,Potential,Power transmission systems
+255,Gearboxes - Industrial Gearbox Manufacturer,Rotomotive Powerdrives India Limited,Anand,Gujarat,N/A,umesh@rotomag.com,Potential,Power transmission and drives
+256,Gearboxes - Industrial Gearbox Manufacturer,NORD Drivesystems Private Limited,Pune,Maharashtra,+91 (0)20-3980 1200,India@nord.com,Potential,German drive technology
+257,Gearboxes - Industrial Gearbox Manufacturer,New Delta Gear Manufacturers Private Limited,Chennai,Tamil Nadu,+91 44 2225 3608,info@newdeltagears.com,Potential,Gear manufacturing specialist
+258,Gearboxes - Industrial Gearbox Manufacturer,Bharat Gears Limited,N/A,N/A,N/A,N/A,Uncertain,Industrial gearbox manufacturer
+259,Gearboxes - Conveyor System Manufacturer,Somi Conveyor Beltings Ltd.,Jodhpur,Rajasthan,+91-9549658388,sales@somiconveyor.com,Potential,Conveyor systems with gearbox applications
+260,Gearboxes - Conveyor System Manufacturer,Continental Belting Pvt. Ltd.,Mumbai,Maharashtra,+91-7738455669,sales@continentalbelting.com,Potential,Conveyor systems requiring gearboxes
+261,Gearboxes - Conveyor System Manufacturer,Pentagon Rubber Private Limited,New Delhi,Delhi,+91 11 43504299,sales@pentagonrubber.com,Potential,Belt and conveyor systems
+262,Gearboxes - Conveyor System Manufacturer,Fabmax Enterprises,Pune,Maharashtra,+91 9881640597,info@fabmaxindia.com,Potential,Material handling systems with gearboxes
+263,Gearboxes - Conveyor System Manufacturer,Maschinen Fabrik India,Kolkata,West Bengal,N/A,N/A,Potential,Material handling and conveyor systems
+264,Gearboxes - Conveyor System Manufacturer,Bastian Solutions,Bengaluru,Karnataka,+91 89 5139 5602,N/A,Potential,Industrial automation and conveyor systems
+265,Gearboxes - Conveyor System Manufacturer,Beacon Engineers,Nagpur,Maharashtra,+91-07104-295510,beaconeng@rediffmail.com,Potential,Conveyor automation systems
+266,Gearboxes - Conveyor System Manufacturer,NKC India,Gurugram,Haryana,91-0124-4084426,contact@nkc-india.com,Potential,Conveyor systems manufacturer
+267,Gearboxes - Conveyor System Manufacturer,ArSai Conve Systems,Ghaziabad,Uttar Pradesh,+91-9811772712,arsaiconveyor@gmail.com,Potential,Conveyor systems engineering
+268,Gearboxes - Conveyor System Manufacturer,Excel Conveyors,Pune,Maharashtra,+91 9822957645,sales@Econveyors.in,Potential,Industrial conveyor solutions
+269,Gearboxes - Conveyor System Manufacturer,Rollwell Conveyor Pvt. Ltd.,Hindupur,Andhra Pradesh,+91-9379372704,mktg@rollwell.net,Potential,Bulk material handling systems
+270,Gearboxes - Conveyor System Manufacturer,Tsubaki Conveyor Systems India,Pune,Maharashtra,+91 20 67928400,TCSI@tsubaki-conveyor.in,Potential,Japanese conveyor technology
+271,Gearboxes - Conveyor System Manufacturer,Deccan Mechanical and Chemical Industries,Pune,Maharashtra,+91 20 27120994,dmciho@demechindia.com,Potential,Material handling systems
+272,Gearboxes - Conveyor System Manufacturer,Orange Conveyor Systems,Chennai,Tamil Nadu,+918048204402,N/A,Potential,Conveyor systems manufacturer
+273,Gearboxes - Conveyor System Manufacturer,Samarth Conveyors,Mumbai,Maharashtra,+918047691014,N/A,Potential,Material handling and conveyor systems
+274,Gearboxes - Conveyor System Manufacturer,M D Conveyor Systems,Pune,Maharashtra,+917942554613,N/A,Potential,Conveyor systems manufacturer
+275,Gearboxes - Conveyor System Manufacturer,SMT Conveyors And Automations,Bengaluru,Karnataka,+917942836598,N/A,Potential,Conveyor automation systems
+276,Gearboxes - Conveyor System Manufacturer,Loknath Engineering,Kolkata,West Bengal,+918046045188,N/A,Potential,Engineering and conveyor systems
+277,Gearboxes - Conveyor System Manufacturer,S.G. Packaging And Coding Co.,Delhi/Bahadurgarh/Kanpur/Jaipur/Kolkata,NCR/Haryana/UP/Rajasthan/West Bengal,+918048603440,N/A,Potential,Packaging and conveyor systems
+278,Gearboxes - Conveyor System Manufacturer,Flexitech Engineering,Bhiwadi/Ghaziabad/Jaipur/Kanpur/Kolkata,Rajasthan/UP/NCR/West Bengal,+918048263934,N/A,Potential,Flexible conveyor engineering
+279,Gearboxes - Conveyor System Manufacturer,H. S. Engineers,Bhiwadi/Bahadurgarh/Faridabad/Jaipur/Kanpur/Kolkata/New Delhi,Rajasthan/Haryana/NCR/UP/West Bengal,+918048950903,N/A,Potential,Engineering and conveyor systems
+280,Gearboxes - Conveyor System Manufacturer,Jaytex International,Jaipur/Kanpur/Kolkata/Faridabad/Ghaziabad/New Delhi,Rajasthan/UP/West Bengal/NCR,+918048615046,N/A,Potential,International conveyor systems
+281,Gearboxes - Conveyor System Manufacturer,Pal Innovations Private Limited,Bhiwadi/Faridabad/Jaipur/New Delhi,Rajasthan/NCR,+918048951244,N/A,Potential,Innovative conveyor solutions
+282,Gearboxes - Conveyor System Manufacturer,Bandma Equipcorp Limited,Bahadurgarh/New Delhi,Haryana/NCR,+918048955834,N/A,Potential,Equipment and conveyor systems
+283,Gearboxes - Conveyor System Manufacturer,Aline Conveyors Private Limited,Bhiwadi/New Delhi,Rajasthan/NCR,+918046042014,N/A,Potential,Conveyor systems manufacturer
+284,Gearboxes - Material Handling Equipment,Majboot Material Handling Private Limited,Ahmedabad,Gujarat,+91-79-25396240,info@majbootmhe.com,Potential,Material handling equipment with gearbox applications
+285,Gearboxes - Compressor Manufacturer,Kirloskar Pneumatic Company Limited,Pune,Maharashtra,N/A,N/A,Potential,Compressor systems requiring gearboxes
+286,Gearboxes - Compressor Manufacturer,ELGi Equipments Limited,Coimbatore,Tamil Nadu,1800-425-3544,enquiry@elgi.com,Potential,Air compressor systems
+287,Gearboxes - Compressor Manufacturer,FS-Curtis India,Pune,Maharashtra,+91 8956964864,N/A,Potential,Air compressor technology
+288,Gearboxes - Compressor Manufacturer,Ingersoll Rand India,N/A,N/A,N/A,N/A,Potential,Industrial compressor systems
+289,Gearboxes - Compressor Manufacturer,Bitzer India Private Limited,Mumbai,Maharashtra,N/A,N/A,Potential,Refrigeration compressor technology
+290,Gearboxes - Compressor Manufacturer,Highly Electric Company (India),Ahmedabad,Gujarat,+91-2717-392899,sales@highly.co.in,Potential,Electrical and compressor equipment
+291,Gearboxes - Compressor Manufacturer,Freezeking,Delhi,NCR,+91 9899 7010 28,freezekingindustries@gmail.com,Potential,Refrigeration equipment
+292,Gearboxes - Compressor Manufacturer,Atlas Copco India,Pune,Maharashtra,+91 77680 80901,info.compressor@atlascopco.com,Yes,Uses ABB Motors/Components
+293,Gearboxes - Compressor Manufacturer,Deep Industries Limited,Ahmedabad,Gujarat,+91 2717-298520,info@deepindustries.com,Potential,Process gas compression systems
