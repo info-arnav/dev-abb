@@ -1,24 +1,27 @@
 import { MetricCard } from "./MetricCard";
 import { ChartCard } from "./ChartCard";
 import { fetchOEMData, getOEMAnalytics, OEMCompany } from "@/data/oemData";
-import { useState, useEffect } from "react";
-import {
-  LineChart,
-  Line,
-  AreaChart,
-  Area,
-  BarChart,
-  Bar,
-  PieChart,
-  Pie,
-  Cell,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  ResponsiveContainer,
-  Legend,
-} from "recharts";
+import { useState, useEffect, lazy, Suspense } from "react";
+
+// Lazy load Recharts components to reduce initial bundle size
+const BarChart = lazy(() => import("recharts").then(module => ({ default: module.BarChart })));
+const Bar = lazy(() => import("recharts").then(module => ({ default: module.Bar })));
+const PieChart = lazy(() => import("recharts").then(module => ({ default: module.PieChart })));
+const Pie = lazy(() => import("recharts").then(module => ({ default: module.Pie })));
+const Cell = lazy(() => import("recharts").then(module => ({ default: module.Cell })));
+const XAxis = lazy(() => import("recharts").then(module => ({ default: module.XAxis })));
+const YAxis = lazy(() => import("recharts").then(module => ({ default: module.YAxis })));
+const CartesianGrid = lazy(() => import("recharts").then(module => ({ default: module.CartesianGrid })));
+const Tooltip = lazy(() => import("recharts").then(module => ({ default: module.Tooltip })));
+const ResponsiveContainer = lazy(() => import("recharts").then(module => ({ default: module.ResponsiveContainer })));
+const Legend = lazy(() => import("recharts").then(module => ({ default: module.Legend })));
+
+// Chart loading component
+const ChartLoader = () => (
+  <div className="flex items-center justify-center h-full">
+    <div className="text-sm text-muted-foreground">Loading chart...</div>
+  </div>
+);
 
 export const Dashboard = () => {
   const [oemData, setOEMData] = useState<OEMCompany[]>([]);
@@ -125,30 +128,32 @@ export const Dashboard = () => {
             title="Regional Market Analysis"
             description="States with highest company concentration and ABB penetration"
           >
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={analytics.regionalAnalysis.slice(0, 8)}>
-                <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-                <XAxis
-                  dataKey="state"
-                  stroke="hsl(var(--muted-foreground))"
-                  fontSize={12}
-                  angle={-45}
-                  textAnchor="end"
-                  height={80}
-                />
-                <YAxis stroke="hsl(var(--muted-foreground))" fontSize={12} />
-                <Tooltip
-                  contentStyle={{
-                    backgroundColor: "hsl(var(--card))",
-                    border: "1px solid hsl(var(--border))",
-                    borderRadius: "8px",
-                  }}
-                />
-                <Bar dataKey="confirmed" fill="#22c55e" name="Confirmed ABB Users" />
-                <Bar dataKey="potential" fill="#3b82f6" name="Potential Users" />
-                <Legend />
-              </BarChart>
-            </ResponsiveContainer>
+            <Suspense fallback={<ChartLoader />}>
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={analytics.regionalAnalysis.slice(0, 8)}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
+                  <XAxis
+                    dataKey="state"
+                    stroke="hsl(var(--muted-foreground))"
+                    fontSize={12}
+                    angle={-45}
+                    textAnchor="end"
+                    height={80}
+                  />
+                  <YAxis stroke="hsl(var(--muted-foreground))" fontSize={12} />
+                  <Tooltip
+                    contentStyle={{
+                      backgroundColor: "hsl(var(--card))",
+                      border: "1px solid hsl(var(--border))",
+                      borderRadius: "8px",
+                    }}
+                  />
+                  <Bar dataKey="confirmed" fill="#22c55e" name="Confirmed ABB Users" />
+                  <Bar dataKey="potential" fill="#3b82f6" name="Potential Users" />
+                  <Legend />
+                </BarChart>
+              </ResponsiveContainer>
+            </Suspense>
           </ChartCard>
 
           {/* ABB Motor Usage Status */}
@@ -156,29 +161,31 @@ export const Dashboard = () => {
             title="ABB Motor Usage Status"
             description="Current distribution of ABB motor adoption"
           >
-            <ResponsiveContainer width="100%" height="100%">
-              <PieChart>
-                <Pie
-                  data={analytics.abbUsageChart}
-                  cx="50%"
-                  cy="50%"
-                  outerRadius={80}
-                  dataKey="value"
-                  label={({ name, percentage }) => `${name}: ${percentage}%`}
-                >
-                  {analytics.abbUsageChart.map((entry: any, index: number) => (
-                    <Cell key={`cell-${index}`} fill={entry.fill} />
-                  ))}
-                </Pie>
-                <Tooltip
-                  contentStyle={{
-                    backgroundColor: "hsl(var(--card))",
-                    border: "1px solid hsl(var(--border))",
-                    borderRadius: "8px",
-                  }}
-                />
-              </PieChart>
-            </ResponsiveContainer>
+            <Suspense fallback={<ChartLoader />}>
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={analytics.abbUsageChart}
+                    cx="50%"
+                    cy="50%"
+                    outerRadius={80}
+                    dataKey="value"
+                    label={({ name, percentage }) => `${name}: ${percentage}%`}
+                  >
+                    {analytics.abbUsageChart.map((entry: any, index: number) => (
+                      <Cell key={`cell-${index}`} fill={entry.fill} />
+                    ))}
+                  </Pie>
+                  <Tooltip
+                    contentStyle={{
+                      backgroundColor: "hsl(var(--card))",
+                      border: "1px solid hsl(var(--border))",
+                      borderRadius: "8px",
+                    }}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
+            </Suspense>
           </ChartCard>
         </div>
 
