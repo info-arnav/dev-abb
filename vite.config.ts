@@ -14,6 +14,10 @@ export default defineConfig({
     },
   },
   build: {
+    target: 'es2015',
+    minify: 'esbuild',
+    chunkSizeWarningLimit: 1000,
+    sourcemap: false,
     rollupOptions: {
       output: {
         manualChunks: {
@@ -28,7 +32,5 @@ export default defineConfig({
         }
       }
     },
-    chunkSizeWarningLimit: 1000, // Increase warning limit to 1000kb
-    sourcemap: false, // Disable sourcemaps in production for smaller builds
   },
 });
